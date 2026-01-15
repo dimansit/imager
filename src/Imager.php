@@ -1,6 +1,6 @@
 <?php
 
-namespace DimansitDev\Imager;
+namespace Dimansit\Imager;
 
 /**
  * Class for image processing
@@ -18,5 +18,6 @@ class Imager
             throw new \RuntimeException('Imagick class not found');
         }
     }
+
 
 }

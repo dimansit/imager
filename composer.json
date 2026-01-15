@@ -1,5 +1,5 @@
 {
-    "name": "dimansit/iamger",
+    "name": "dimansit/imager",
     "description": "processing images",
     "require": {
         "ext-imagick": "*",

@@ -17,5 +17,5 @@
             "email": "dimansit@mail.ru"
         }
     ],
-    "minimum-stability": "beta"
+    "minimum-stability": "stable"
 }

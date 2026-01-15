@@ -1,0 +1,21 @@
+{
+    "name": "dimansit/iamger",
+    "description": "processing images",
+    "require": {
+        "ext-imagick": "*",
+        "php": "8"
+    },
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Dimansit\\Iamger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Sityaev",
+            "email": "dimansit@mail.ru"
+        }
+    ],
+    "minimum-stability": "beta"
+}

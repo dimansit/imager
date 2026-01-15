@@ -3,7 +3,7 @@
     "description": "processing images",
     "require": {
         "ext-imagick": "*",
-        "php": "8"
+        "php": "^8.0"
     },
     "license": "proprietary",
     "autoload": {
